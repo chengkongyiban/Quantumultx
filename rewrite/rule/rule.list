@@ -1,7 +1,3 @@
-
-#酷我9.1.0去广告
-DOMAIN-SUFFIX,fvedio.kuwo.cn,REJECT
-
 # 有兔阅读
 DOMAIN,app.zhoudamozi.com,DIRECT
 DOMAIN-SUFFIX,youzibank.com,DIRECT
