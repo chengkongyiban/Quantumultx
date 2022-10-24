@@ -10,8 +10,8 @@ Host,pgdt.ugdtimg.com,reject
 Host,splashqqlive.gtimg.com,reject
 Host,wa.gtimg.com,reject
 
-Host-SUFFIX,umengcloud.com,reject
-Host-SUFFIX,umeng.com,reject
+Host,ulogs.umengcloud.com,reject
+Host,ulogs.umeng.com,reject
 Host,sdk.e.qq.com,reject
 Host,mi.gdt.qq.com,reject
 Host,open.e.kuaishou.com,reject
