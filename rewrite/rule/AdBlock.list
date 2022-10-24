@@ -49,10 +49,6 @@ DOMAIN-SUFFIX,afdback.ppsimg.com,REJECT
 
 DOMAIN,bid.adview.cn,REJECT
 
-
-
-
-
 # 高德地图
 DOMAIN,optimus-ads.amap.com,REJECT
 
