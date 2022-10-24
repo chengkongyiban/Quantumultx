@@ -1,5 +1,6 @@
 #搭配墨鱼的微博轻享版去广告重写使用，地址https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Rewrite/AdBlock/WeiboLite.conf
 #广告联盟，去开屏广告
+host,adstrategy.biz.weibo.com,reject
 Host-SUFFIX,e.qq.com,reject
 Host-SUFFIX,gdt.qq.com,reject
 Host-SUFFIX,l.qq.com,reject
