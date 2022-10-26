@@ -77,3 +77,6 @@ host,errlog.umeng.com,REJECT
 host,tnc3-aliec2.snssdk.com,REJECT
 host,sf3-fe-tos.pglstatp-toutiao.com,REJECT
 host,qzs.gdtimg.com,REJECT
+
+#B站
+ip-cidr, 203.107.1.1/24, reject
