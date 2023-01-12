@@ -3,10 +3,10 @@
 For Quantumult-X 598+ ONLY!!
 
 [task_local]
-event-interaction https://raw.githubusercontent.com/LovedGM/Task/main/YT-AD.js, tag=YouTube 广告检测, img-url= https://github.com/LikeGEM/TuBiao/raw/main/Icons/YouTube.png, enabled=true
+event-interaction https://github.com/chengkongyiban/Quantumultx/raw/main/js/YouTube-AD.js, tag=YouTube 广告检测, img-url= https://github.com/LikeGEM/TuBiao/raw/main/Icons/YouTube.png, enabled=true
 
 // Cron 定时切换版本
-0 8 * * * https://raw.githubusercontent.com/LovedGM/Task/main/YT-AD.js#policy=你的策略组名, tag= YouTube 广告检测定时切换, img-url= https://github.com/LikeGEM/TuBiao/raw/main/Icons/YouTube.png, enabled=true
+0 8 * * * https://github.com/chengkongyiban/Quantumultx/raw/main/js/YouTube-AD.js#policy=你的策略组名, tag= YouTube 广告检测定时切换, img-url= https://github.com/LikeGEM/TuBiao/raw/main/Icons/YouTube.png, enabled=true
 
 基于@XIAO_KOP @LovedGM大佬的Google送中检测脚本修改。
 1:修改了判断逻辑，检测切换送中的节点。
