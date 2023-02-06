@@ -3,7 +3,7 @@
 
 [rewrite local]
 
-\.t_read\.txt$ url script-request-body 
+\.t_read\.txt$ url script-request-body https://github.com/chengkongyiban/Quantumultx/raw/main/js/txt_read.js
 
 [MITM]
 
