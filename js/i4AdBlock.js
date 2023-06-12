@@ -7,7 +7,7 @@ author=keywos
 #只保留搜索
 ^https?:\/\/(search|list)-app-m\.i4\.cn\/(getHotSearchList|getAppList)\.xhtml url script-response-body https://github.com/chengkongyiban/Quantumultx/raw/main/js/i4AdBlock.js 
 
-hostname = list-app-m.i4.cn
+hostname = list-app-m.i4.cn,search-app-m.i4.cn
 */
 let u = $request.url;
 let i = JSON.parse($response.body);
