@@ -1,6 +1,7 @@
 /*
-爱思极速版去广告
-author=keywos
+#!name=爱思极速版去广告
+#!desc=仅保留搜索app功能
+#!author=keywos
 # 爱思开屏
 ^https?:\/\/list-app-m\.i4\.cn\/getopfstadinfo\.xhtml url reject
 
